@@ -757,8 +757,14 @@
       "text": "Место назначения НИП неоднозначно или не сопоставлено: карта Клайва Розфилда",
       "provider": "MyMemory",
       "machine": true
+    },
+    "c1f816c99cb242ba23667562c0a39a9a1c8fa441595ba5acc7c2f9cd3f5b94d4": {
+      "source": "Data source unavailable; retaining previously collected details.",
+      "text": "Источник данных недоступен; сохраняются ранее собранные сведения.",
+      "provider": "MyMemory",
+      "machine": true
     }
   },
-  "day": "2026-11-18",
-  "used": 0
+  "day": "2026-11-19",
+  "used": 64
 }

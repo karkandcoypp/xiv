@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T20:44:49.082526+00:00",
+  "generatedAt": "2026-11-19T07:41:07.640651+00:00",
   "events": [
     {
       "id": "e9da20a481813c2f",
@@ -269,33 +269,33 @@
           "Blunderville Square": "Площадь Blunderville",
           "Wy — entrance to Blunderville Square": "Wy — entrance to Blunderville Square",
           "To reach MGF Trader in Blunderville Square (X:3.8 Y:3.1), speak with Wy in The Gold Saucer (X:6.1 Y:7.4). The map button points to the entrance, not the merchant inside.": "Чтобы попасть к MGF Trader в Площадь Blunderville (X:3.8 Y:3.1), поговорите с Wy в Золотое блюдце (X:6.1 Y:7.4). Кнопка «Куда идти» ведёт ко входу, а не к торговцу внутри.",
-          "Ballroom Etiquette - Embracing Blunders": "Ballroom Etiquette - Embracing Blunders",
-          "Matte Winner's Crown": "Matte Winner's Crown",
-          "Blunderville Padded Wall": "Blunderville Padded Wall",
-          "Gentlebean Parka": "Gentlebean Parka",
-          "Gentlebean Knit Cap": "Gentlebean Knit Cap",
-          "Rhiyes Identification Key": "Rhiyes Identification Key",
-          "Just Crowning Around": "Just Crowning Around",
-          "Blunderville Donut Bumper": "Blunderville Donut Bumper",
-          "Well-heeled Youth": "Well-heeled Youth",
-          "Blunder-villed Framer's Kit": "Blunder-villed Framer's Kit",
           "Wide Spectrum #1 Dye": "Wide Spectrum #1 Dye",
-          "It Could Happen to You": "It Could Happen to You",
+          "Matte Winner's Crown": "Matte Winner's Crown",
+          "Pegwin": "Pegwin",
+          "Blunderville Crown": "Blunderville Crown",
+          "Well-heeled Youth": "Well-heeled Youth",
+          "Gentlebean Bottoms": "Gentlebean Bottoms",
+          "Blunderville Padded Wall": "Blunderville Padded Wall",
+          "Gentlebean Knit Cap": "Gentlebean Knit Cap",
+          "Ballroom Etiquette - Embracing Blunders": "Ballroom Etiquette - Embracing Blunders",
+          "Pink Bean": "Pink Bean",
+          "Gentlebean Shoes": "Gentlebean Shoes",
+          "Gold Saucer Aetheryte Ticket": "Gold Saucer Aetheryte Ticket",
           "Everybody Falls (Fall Guys Theme) Orchestrion Roll": "Everybody Falls (Fall Guys Theme) Orchestrion Roll",
+          "Gentlebean Parka": "Gentlebean Parka",
+          "Blunderville Donut Bumper": "Blunderville Donut Bumper",
+          "Blunder-villed Framer's Kit": "Blunder-villed Framer's Kit",
+          "Blunderville Hammer": "Blunderville Hammer",
+          "Just Crowning Around": "Just Crowning Around",
+          "Blunderville Rainbow": "Blunderville Rainbow",
+          "Rhiyes Identification Key": "Rhiyes Identification Key",
+          "It Could Happen to You": "It Could Happen to You",
           "Blunderful Framer's Kit": "Blunderful Framer's Kit",
+          "Blunderous Framer's Kit": "Blunderous Framer's Kit",
           "Blunderville Flag": "Blunderville Flag",
           "Glossy Winner's Crown": "Glossy Winner's Crown",
-          "Gentlebean Bottoms": "Gentlebean Bottoms",
-          "Standard Rationing Manual": "Standard Rationing Manual",
-          "Pegwin": "Pegwin",
           "Lewena": "Lewena",
-          "Blunderville Hammer": "Blunderville Hammer",
-          "Gentlebean Shoes": "Gentlebean Shoes",
-          "Blunderous Framer's Kit": "Blunderous Framer's Kit",
-          "Pink Bean": "Pink Bean",
-          "Blunderville Crown": "Blunderville Crown",
-          "Blunderville Rainbow": "Blunderville Rainbow",
-          "Gold Saucer Aetheryte Ticket": "Gold Saucer Aetheryte Ticket"
+          "Standard Rationing Manual": "Standard Rationing Manual"
         }
       },
       "locations": [
@@ -359,8 +359,8 @@
       },
       "validation": {
         "status": "passed",
-        "checkedAt": "2026-11-18T20:44:49.229416+00:00",
-        "lastVerifiedAt": "2026-11-18T20:44:49.229416+00:00",
+        "checkedAt": "2026-11-19T07:41:07.819368+00:00",
+        "lastVerifiedAt": "2026-11-19T07:41:07.819368+00:00",
         "fingerprint": "8582aba2346a4cf984f00ad37f9f928a6d65a0cbd765998dbe529687ac0c704e",
         "checks": 133,
         "issues": []
@@ -490,17 +490,17 @@
           "Ul'dah - Steps of Nald": "Уль’да — Ступени Нальда",
           "MGF Trader": "Торговец MGF",
           "Blunderville Square": "Площадь Blunderville",
-          "Pattin": "Pattin",
+          "Wakesoul Buggy": "Wakesoul Buggy",
           "Grim and Grisly Games": "Grim and Grisly Games",
+          "Tabletop All Saints' Wake MMXXV Advertisement": "Tabletop All Saints' Wake MMXXV Advertisement",
           "Grisly Bear Suit": "Grisly Bear Suit",
-          "All Saints' Wake MMXVI Advertisement": "All Saints' Wake MMXVI Advertisement",
           "We Scare Bears": "We Scare Bears",
           "Smiling Wakeshroom": "Smiling Wakeshroom",
-          "Tabletop All Saints' Wake MMXXV Advertisement": "Tabletop All Saints' Wake MMXXV Advertisement",
-          "All Saints' Wake MMXXV Advertisement": "All Saints' Wake MMXXV Advertisement",
-          "Grisly Bear Head": "Grisly Bear Head",
+          "All Saints' Wake MMXVI Advertisement": "All Saints' Wake MMXVI Advertisement",
           "Staring Wakeshroom": "Staring Wakeshroom",
-          "Wakesoul Buggy": "Wakesoul Buggy"
+          "Pattin": "Pattin",
+          "All Saints' Wake MMXXV Advertisement": "All Saints' Wake MMXXV Advertisement",
+          "Grisly Bear Head": "Grisly Bear Head"
         }
       },
       "locations": [
@@ -547,7 +547,7 @@
       },
       "validation": {
         "status": "partial",
-        "checkedAt": "2026-11-18T20:44:49.229416+00:00",
+        "checkedAt": "2026-11-19T07:41:07.819368+00:00",
         "lastVerifiedAt": null,
         "fingerprint": "d853871f65f5427c265baf25f76296d96f6a3a0c02acda17b286b81a60ca4e30",
         "checks": 56,
@@ -607,7 +607,8 @@
         "NPC destination is ambiguous or not mapped: Metian Chausses",
         "NPC destination is ambiguous or not mapped: Metian Sollerets",
         "NPC destination is ambiguous or not mapped: Clive Rosfield Card",
-        "Russian text includes automatic translation by MyMemory; original English reward names are retained in tooltips."
+        "Russian text includes automatic translation by MyMemory; original English reward names are retained in tooltips.",
+        "Data source unavailable; retaining previously collected details."
       ],
       "imageUrl": "https://lds-img.finalfantasyxiv.com/h/O/23fYwJxNiO-vMh3cO4ZM_pwJbs.jpg",
       "tracking": {
@@ -792,13 +793,12 @@
         }
       ],
       "automation": {
-        "status": "partial",
+        "status": "stale",
         "sources": [
           "https://na.finalfantasyxiv.com/lodestone/topics/detail/44d7f515b6157602c144c5dba37a110bdecda702",
           "https://na.finalfantasyxiv.com/lodestone/playguide/db/item/880ccee8353/",
           "https://na.finalfantasyxiv.com/lodestone/playguide/db/item/abf54f46f2a/",
           "https://na.finalfantasyxiv.com/lodestone/playguide/db/item/08bfdaa0749/",
-          "https://na.finalfantasyxiv.com/lodestone/playguide/db/item/eb53e05cec2/",
           "https://na.finalfantasyxiv.com/lodestone/playguide/db/item/6bbfd03b991/",
           "https://na.finalfantasyxiv.com/lodestone/playguide/db/item/3b504c17fe3/",
           "https://na.finalfantasyxiv.com/lodestone/playguide/db/item/d61d33400a8/",
@@ -818,10 +818,10 @@
         "schema": "exdschema@2:rev:e773c41a90aed788cf4c1c48469fa85618ef01fb",
         "issues": [
           "Automatic details may be incomplete. The main objective is not inferred; NPC destinations require exact game-data links.",
+          "Reward source unavailable: https://na.finalfantasyxiv.com/lodestone/playguide/db/item/eb53e05cec2/",
           "Price unknown or exchange is ambiguous: Metian Vest",
           "Price unknown or exchange is ambiguous: Metian Gauntlets",
           "Price unknown or exchange is ambiguous: Metian Chausses",
-          "Price unknown or exchange is ambiguous: Metian Sollerets",
           "Price unknown or exchange is ambiguous: Tonitrua ex Machina Orchestrion Roll",
           "Price unknown or exchange is ambiguous: Idylls of the Empire Orchestrion Roll",
           "Price unknown or exchange is ambiguous: Forevermore - The Grand Duchy of Rosaria Orchestrion Roll",
@@ -835,7 +835,6 @@
           "NPC destination is ambiguous or not mapped: Metian Vest",
           "NPC destination is ambiguous or not mapped: Metian Gauntlets",
           "NPC destination is ambiguous or not mapped: Metian Chausses",
-          "NPC destination is ambiguous or not mapped: Metian Sollerets",
           "NPC destination is ambiguous or not mapped: Clive Rosfield Card"
         ],
         "npc": {
@@ -845,13 +844,12 @@
             "NPC destination is ambiguous or not mapped: Metian Vest",
             "NPC destination is ambiguous or not mapped: Metian Gauntlets",
             "NPC destination is ambiguous or not mapped: Metian Chausses",
-            "NPC destination is ambiguous or not mapped: Metian Sollerets",
             "NPC destination is ambiguous or not mapped: Clive Rosfield Card"
           ]
         },
         "russian": {
           "status": "complete",
-          "translated": 26,
+          "translated": 1,
           "pending": 0,
           "provider": "MyMemory + reviewed glossary"
         }
@@ -908,12 +906,13 @@
           "NPC destination is ambiguous or not mapped: Metian Chausses": "Место назначения NPC неоднозначно или не обозначено на карте: Метианские дороги",
           "NPC destination is ambiguous or not mapped: Metian Sollerets": "Пункт назначения NPC неоднозначен или не сопоставлен: Наголенники Метиана",
           "NPC destination is ambiguous or not mapped: Clive Rosfield Card": "Место назначения НИП неоднозначно или не сопоставлено: карта Клайва Розфилда",
-          "Russian text includes automatic translation by MyMemory; original English reward names are retained in tooltips.": "Русский текст включает машинный перевод MyMemory; исходные английские названия наград сохранены во всплывающих подсказках."
+          "Russian text includes automatic translation by MyMemory; original English reward names are retained in tooltips.": "Русский текст включает машинный перевод MyMemory; исходные английские названия наград сохранены во всплывающих подсказках.",
+          "Data source unavailable; retaining previously collected details.": "Источник данных недоступен; сохраняются ранее собранные сведения."
         }
       },
       "validation": {
         "status": "partial",
-        "checkedAt": "2026-11-18T20:44:49.229416+00:00",
+        "checkedAt": "2026-11-19T07:41:07.819368+00:00",
         "lastVerifiedAt": null,
         "fingerprint": "abd06ee0a1be745466b7b96e7925633af9fb8b294aab64a82d5234903df35aee",
         "checks": 67,
