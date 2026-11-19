@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T07:41:07.640651+00:00",
+  "generatedAt": "2026-11-19T20:50:48.297889+00:00",
   "events": [
     {
       "id": "e9da20a481813c2f",
@@ -269,33 +269,33 @@
           "Blunderville Square": "Площадь Blunderville",
           "Wy — entrance to Blunderville Square": "Wy — entrance to Blunderville Square",
           "To reach MGF Trader in Blunderville Square (X:3.8 Y:3.1), speak with Wy in The Gold Saucer (X:6.1 Y:7.4). The map button points to the entrance, not the merchant inside.": "Чтобы попасть к MGF Trader в Площадь Blunderville (X:3.8 Y:3.1), поговорите с Wy в Золотое блюдце (X:6.1 Y:7.4). Кнопка «Куда идти» ведёт ко входу, а не к торговцу внутри.",
-          "Wide Spectrum #1 Dye": "Wide Spectrum #1 Dye",
-          "Matte Winner's Crown": "Matte Winner's Crown",
-          "Pegwin": "Pegwin",
-          "Blunderville Crown": "Blunderville Crown",
-          "Well-heeled Youth": "Well-heeled Youth",
-          "Gentlebean Bottoms": "Gentlebean Bottoms",
-          "Blunderville Padded Wall": "Blunderville Padded Wall",
-          "Gentlebean Knit Cap": "Gentlebean Knit Cap",
-          "Ballroom Etiquette - Embracing Blunders": "Ballroom Etiquette - Embracing Blunders",
-          "Pink Bean": "Pink Bean",
-          "Gentlebean Shoes": "Gentlebean Shoes",
-          "Gold Saucer Aetheryte Ticket": "Gold Saucer Aetheryte Ticket",
-          "Everybody Falls (Fall Guys Theme) Orchestrion Roll": "Everybody Falls (Fall Guys Theme) Orchestrion Roll",
-          "Gentlebean Parka": "Gentlebean Parka",
-          "Blunderville Donut Bumper": "Blunderville Donut Bumper",
-          "Blunder-villed Framer's Kit": "Blunder-villed Framer's Kit",
-          "Blunderville Hammer": "Blunderville Hammer",
-          "Just Crowning Around": "Just Crowning Around",
-          "Blunderville Rainbow": "Blunderville Rainbow",
-          "Rhiyes Identification Key": "Rhiyes Identification Key",
-          "It Could Happen to You": "It Could Happen to You",
-          "Blunderful Framer's Kit": "Blunderful Framer's Kit",
-          "Blunderous Framer's Kit": "Blunderous Framer's Kit",
           "Blunderville Flag": "Blunderville Flag",
-          "Glossy Winner's Crown": "Glossy Winner's Crown",
+          "Gold Saucer Aetheryte Ticket": "Gold Saucer Aetheryte Ticket",
+          "Wide Spectrum #1 Dye": "Wide Spectrum #1 Dye",
+          "Pegwin": "Pegwin",
           "Lewena": "Lewena",
-          "Standard Rationing Manual": "Standard Rationing Manual"
+          "Blunderful Framer's Kit": "Blunderful Framer's Kit",
+          "Gentlebean Shoes": "Gentlebean Shoes",
+          "Just Crowning Around": "Just Crowning Around",
+          "Gentlebean Bottoms": "Gentlebean Bottoms",
+          "Blunderville Crown": "Blunderville Crown",
+          "Blunder-villed Framer's Kit": "Blunder-villed Framer's Kit",
+          "Well-heeled Youth": "Well-heeled Youth",
+          "Gentlebean Parka": "Gentlebean Parka",
+          "Pink Bean": "Pink Bean",
+          "Blunderville Padded Wall": "Blunderville Padded Wall",
+          "Blunderville Hammer": "Blunderville Hammer",
+          "Rhiyes Identification Key": "Rhiyes Identification Key",
+          "Ballroom Etiquette - Embracing Blunders": "Ballroom Etiquette - Embracing Blunders",
+          "Matte Winner's Crown": "Matte Winner's Crown",
+          "Blunderville Donut Bumper": "Blunderville Donut Bumper",
+          "Everybody Falls (Fall Guys Theme) Orchestrion Roll": "Everybody Falls (Fall Guys Theme) Orchestrion Roll",
+          "Glossy Winner's Crown": "Glossy Winner's Crown",
+          "It Could Happen to You": "It Could Happen to You",
+          "Gentlebean Knit Cap": "Gentlebean Knit Cap",
+          "Blunderous Framer's Kit": "Blunderous Framer's Kit",
+          "Standard Rationing Manual": "Standard Rationing Manual",
+          "Blunderville Rainbow": "Blunderville Rainbow"
         }
       },
       "locations": [
@@ -359,8 +359,8 @@
       },
       "validation": {
         "status": "passed",
-        "checkedAt": "2026-11-19T07:41:07.819368+00:00",
-        "lastVerifiedAt": "2026-11-19T07:41:07.819368+00:00",
+        "checkedAt": "2026-11-19T20:50:48.462270+00:00",
+        "lastVerifiedAt": "2026-11-19T20:50:48.462270+00:00",
         "fingerprint": "8582aba2346a4cf984f00ad37f9f928a6d65a0cbd765998dbe529687ac0c704e",
         "checks": 133,
         "issues": []
@@ -491,16 +491,16 @@
           "MGF Trader": "Торговец MGF",
           "Blunderville Square": "Площадь Blunderville",
           "Wakesoul Buggy": "Wakesoul Buggy",
-          "Grim and Grisly Games": "Grim and Grisly Games",
-          "Tabletop All Saints' Wake MMXXV Advertisement": "Tabletop All Saints' Wake MMXXV Advertisement",
-          "Grisly Bear Suit": "Grisly Bear Suit",
-          "We Scare Bears": "We Scare Bears",
+          "Grisly Bear Head": "Grisly Bear Head",
           "Smiling Wakeshroom": "Smiling Wakeshroom",
+          "Tabletop All Saints' Wake MMXXV Advertisement": "Tabletop All Saints' Wake MMXXV Advertisement",
           "All Saints' Wake MMXVI Advertisement": "All Saints' Wake MMXVI Advertisement",
-          "Staring Wakeshroom": "Staring Wakeshroom",
+          "Grisly Bear Suit": "Grisly Bear Suit",
           "Pattin": "Pattin",
+          "We Scare Bears": "We Scare Bears",
+          "Staring Wakeshroom": "Staring Wakeshroom",
           "All Saints' Wake MMXXV Advertisement": "All Saints' Wake MMXXV Advertisement",
-          "Grisly Bear Head": "Grisly Bear Head"
+          "Grim and Grisly Games": "Grim and Grisly Games"
         }
       },
       "locations": [
@@ -547,7 +547,7 @@
       },
       "validation": {
         "status": "partial",
-        "checkedAt": "2026-11-19T07:41:07.819368+00:00",
+        "checkedAt": "2026-11-19T20:50:48.462270+00:00",
         "lastVerifiedAt": null,
         "fingerprint": "d853871f65f5427c265baf25f76296d96f6a3a0c02acda17b286b81a60ca4e30",
         "checks": 56,
@@ -607,8 +607,7 @@
         "NPC destination is ambiguous or not mapped: Metian Chausses",
         "NPC destination is ambiguous or not mapped: Metian Sollerets",
         "NPC destination is ambiguous or not mapped: Clive Rosfield Card",
-        "Russian text includes automatic translation by MyMemory; original English reward names are retained in tooltips.",
-        "Data source unavailable; retaining previously collected details."
+        "Russian text includes automatic translation by MyMemory; original English reward names are retained in tooltips."
       ],
       "imageUrl": "https://lds-img.finalfantasyxiv.com/h/O/23fYwJxNiO-vMh3cO4ZM_pwJbs.jpg",
       "tracking": {
@@ -793,12 +792,13 @@
         }
       ],
       "automation": {
-        "status": "stale",
+        "status": "partial",
         "sources": [
           "https://na.finalfantasyxiv.com/lodestone/topics/detail/44d7f515b6157602c144c5dba37a110bdecda702",
           "https://na.finalfantasyxiv.com/lodestone/playguide/db/item/880ccee8353/",
           "https://na.finalfantasyxiv.com/lodestone/playguide/db/item/abf54f46f2a/",
           "https://na.finalfantasyxiv.com/lodestone/playguide/db/item/08bfdaa0749/",
+          "https://na.finalfantasyxiv.com/lodestone/playguide/db/item/eb53e05cec2/",
           "https://na.finalfantasyxiv.com/lodestone/playguide/db/item/6bbfd03b991/",
           "https://na.finalfantasyxiv.com/lodestone/playguide/db/item/3b504c17fe3/",
           "https://na.finalfantasyxiv.com/lodestone/playguide/db/item/d61d33400a8/",
@@ -818,10 +818,10 @@
         "schema": "exdschema@2:rev:e773c41a90aed788cf4c1c48469fa85618ef01fb",
         "issues": [
           "Automatic details may be incomplete. The main objective is not inferred; NPC destinations require exact game-data links.",
-          "Reward source unavailable: https://na.finalfantasyxiv.com/lodestone/playguide/db/item/eb53e05cec2/",
           "Price unknown or exchange is ambiguous: Metian Vest",
           "Price unknown or exchange is ambiguous: Metian Gauntlets",
           "Price unknown or exchange is ambiguous: Metian Chausses",
+          "Price unknown or exchange is ambiguous: Metian Sollerets",
           "Price unknown or exchange is ambiguous: Tonitrua ex Machina Orchestrion Roll",
           "Price unknown or exchange is ambiguous: Idylls of the Empire Orchestrion Roll",
           "Price unknown or exchange is ambiguous: Forevermore - The Grand Duchy of Rosaria Orchestrion Roll",
@@ -835,6 +835,7 @@
           "NPC destination is ambiguous or not mapped: Metian Vest",
           "NPC destination is ambiguous or not mapped: Metian Gauntlets",
           "NPC destination is ambiguous or not mapped: Metian Chausses",
+          "NPC destination is ambiguous or not mapped: Metian Sollerets",
           "NPC destination is ambiguous or not mapped: Clive Rosfield Card"
         ],
         "npc": {
@@ -844,12 +845,13 @@
             "NPC destination is ambiguous or not mapped: Metian Vest",
             "NPC destination is ambiguous or not mapped: Metian Gauntlets",
             "NPC destination is ambiguous or not mapped: Metian Chausses",
+            "NPC destination is ambiguous or not mapped: Metian Sollerets",
             "NPC destination is ambiguous or not mapped: Clive Rosfield Card"
           ]
         },
         "russian": {
           "status": "complete",
-          "translated": 1,
+          "translated": 26,
           "pending": 0,
           "provider": "MyMemory + reviewed glossary"
         }
@@ -857,29 +859,29 @@
       "translations": {
         "ru": {
           "Automatic details may be incomplete. The main objective is not inferred; NPC destinations require exact game-data links.": "Автоматически собранные сведения могут быть неполными. Основная цель не определяется автоматически; точки NPC добавляются только при точной связи в игровых данных.",
-          "Metian Chausses": "Metian Chausses",
-          "Metian Vest": "Metian Vest",
-          "Metian Sollerets": "Metian Sollerets",
           "Forevermore - The Grand Duchy of Rosaria Orchestrion Roll": "Forevermore - The Grand Duchy of Rosaria Orchestrion Roll",
-          "neophyte adventurer": "neophyte adventurer",
+          "Pain to Recall": "Pain to Recall",
+          "Find the Flame Orchestrion Roll": "Find the Flame Orchestrion Roll",
+          "Torgal Whistle": "Torgal Whistle",
           "Torgal Pup": "Torgal Pup",
-          "Idylls of the Empire Orchestrion Roll": "Idylls of the Empire Orchestrion Roll",
+          "Metian Chausses": "Metian Chausses",
+          "Clive": "Clive",
           "Land of Eikons Orchestrion Roll": "Land of Eikons Orchestrion Roll",
+          "Metian Vest": "Metian Vest",
+          "neophyte adventurer": "neophyte adventurer",
+          "To Sail Forbidden Seas Orchestrion Roll": "To Sail Forbidden Seas Orchestrion Roll",
+          "Idylls of the Empire Orchestrion Roll": "Idylls of the Empire Orchestrion Roll",
+          "Metian Sollerets": "Metian Sollerets",
+          "Gold Saucer attendant": "Gold Saucer attendant",
           "The State of the Realm Orchestrion Roll": "The State of the Realm Orchestrion Roll",
+          "Clive Rosfield Card": "Clive Rosfield Card",
           "Before the Storm - Caer Norvent Orchestrion Roll": "Before the Storm - Caer Norvent Orchestrion Roll",
           "A Land on Fire": "A Land on Fire",
-          "Gold Saucer attendant": "Gold Saucer attendant",
-          "Metian Gauntlets": "Metian Gauntlets",
-          "Clive": "Clive",
           "Who I Really Am Orchestrion Roll": "Who I Really Am Orchestrion Roll",
-          "Pain to Recall": "Pain to Recall",
-          "Tonitrua ex Machina Orchestrion Roll": "Tonitrua ex Machina Orchestrion Roll",
-          "Find the Flame Orchestrion Roll": "Find the Flame Orchestrion Roll",
-          "To Sail Forbidden Seas Orchestrion Roll": "To Sail Forbidden Seas Orchestrion Roll",
-          "Clive Rosfield Card": "Clive Rosfield Card",
-          "Torgal Whistle": "Torgal Whistle",
           "Away (Refrain) Orchestrion Roll": "Away (Refrain) Orchestrion Roll",
           "The Path Infernal": "The Path Infernal",
+          "Tonitrua ex Machina Orchestrion Roll": "Tonitrua ex Machina Orchestrion Roll",
+          "Metian Gauntlets": "Metian Gauntlets",
           "FINAL FANTASY XIV x FINAL FANTASY XVI Crossover Event Returns!": "Возвращается кроссовер FINAL FANTASY XIV x FINAL FANTASY XVI!",
           "MGP": "МГ",
           "Ul'dah - Steps of Nald": "Уль’да — Ступени Нальда",
@@ -906,13 +908,12 @@
           "NPC destination is ambiguous or not mapped: Metian Chausses": "Место назначения NPC неоднозначно или не обозначено на карте: Метианские дороги",
           "NPC destination is ambiguous or not mapped: Metian Sollerets": "Пункт назначения NPC неоднозначен или не сопоставлен: Наголенники Метиана",
           "NPC destination is ambiguous or not mapped: Clive Rosfield Card": "Место назначения НИП неоднозначно или не сопоставлено: карта Клайва Розфилда",
-          "Russian text includes automatic translation by MyMemory; original English reward names are retained in tooltips.": "Русский текст включает машинный перевод MyMemory; исходные английские названия наград сохранены во всплывающих подсказках.",
-          "Data source unavailable; retaining previously collected details.": "Источник данных недоступен; сохраняются ранее собранные сведения."
+          "Russian text includes automatic translation by MyMemory; original English reward names are retained in tooltips.": "Русский текст включает машинный перевод MyMemory; исходные английские названия наград сохранены во всплывающих подсказках."
         }
       },
       "validation": {
         "status": "partial",
-        "checkedAt": "2026-11-19T07:41:07.819368+00:00",
+        "checkedAt": "2026-11-19T20:50:48.462270+00:00",
         "lastVerifiedAt": null,
         "fingerprint": "abd06ee0a1be745466b7b96e7925633af9fb8b294aab64a82d5234903df35aee",
         "checks": 67,
